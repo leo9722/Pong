@@ -1,6 +1,9 @@
 # TP Pong
-![alt](https://github.com/leo9722/Pong/blob/master/pong.png)
+
 Game of Pong C++
+
+![alt](https://github.com/leo9722/Pong/blob/master/pong.png)
+
 
 ## Installation
 
